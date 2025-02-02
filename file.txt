@@ -1,2 +1,4 @@
+Hello from master branch
+=======
 Hello world
 Hello from feature branch
